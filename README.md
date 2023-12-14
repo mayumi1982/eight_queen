@@ -30,3 +30,6 @@ Se a rainha atual não puder ser colocada em uma posição válida na coluna atu
 
 <img width="404" alt="image" src="https://github.com/mayumi1982/eight_queen/assets/70608757/ac1cc70d-6dda-4aa1-b961-132d0dad987d">
 
+
+
+
