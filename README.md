@@ -6,7 +6,10 @@ O desafio das 8 rainhas é um quebra-cabeça lógico que envolve posicionar oito
 
 Neste desafio, a tarefa proposta é completar a função nQueen(), que recebe 'n' como parâmetro de entrada e retorna uma lista contendo todas as configurações possíveis do tabuleiro de xadrez, organizadas em ordem de classificação. Se não houver solução, a função deve retornar uma lista vazia.
 
-Foi realizado um aprimoramento implementando uma interface gráfica em Python usando o Tkinter. O objetivo dessa aplicação é coletar a entrada do usuário, que deve ser um número de 1 a 8, e exibir a solução em um tabuleiro de xadrez 8x8. Cada número é associado a uma cor para melhorar a visualização.
+Foi realizado um aprimoramento implementando uma interface gráfica em Python usando o Tkinter. O objetivo dessa aplicação é coletar a entrada do usuário, que deve ser um número de 1 a 8, e exibir a solução em um tabuleiro de xadrez 8x8. Cada número é associado a uma cor para melhorar a visualização. E na segunda versão definitiva, utilizamos essas bibliotecas:
+
+- Matplotlib: No contexto desse código, o Matplotlib é utilizado para desenhar o tabuleiro de xadrez e exibir as soluções do problema das N-Rainhas.
+- NumPy: Neste código, o NumPy é usado para criar e manipular matrizes que representam o tabuleiro de xadrez e as posições das rainhas.
 
 ## Lógica Utilizada
 
